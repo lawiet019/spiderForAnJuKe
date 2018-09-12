@@ -1,0 +1,5 @@
+requests==2.18.4
+fake_useragent==0.1.10
+openpyxl==2.5.3
+beautifulsoup4==4.6.3
+regex==2018.08.29
